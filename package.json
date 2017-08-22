@@ -19,7 +19,7 @@
   "dependencies": {
     "gulp-util": "^3.0.6",
     "lodash": "^4.10.0",
-    "node-aigis": "^1.3.0",
+    "node-aigis": "GabrielCousin/aigis#import-sass-colors",
     "through2": "^2.0.0"
   },
   "devDependencies": {
